@@ -75,3 +75,9 @@ I also create content and share knowledge on **software development, SaaS, and t
 
 ⭐ If you like my work, consider starring a repository  
 🤝 Always open to collaborations, partnerships, and cool ideas
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Samuelivanovichi/Samuelivanovichi/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Samuelivanovichi/Samuelivanovichi/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+</picture>
