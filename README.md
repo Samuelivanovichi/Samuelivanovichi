@@ -1,4 +1,12 @@
-# Hi 👋, I'm Samuel Ivanovichi
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=venom&height=120&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E91F3&center=true&vCenter=true&width=550&lines=Hi+%F0%9F%91%8B%2C+I'm+Samuel+Ivanovichi;Welcome+to+my+profile!" alt="Typing SVG" />
+  </a>
+</div>
 
 🚀 **Full Stack Developer & Software Engineer**  
 🇧🇷 Brazil
@@ -23,6 +31,9 @@ I also create content and share knowledge on **software development, SaaS, and t
   <a href="https://www.linkedin.com/in/samuelivanovichi/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Samuel_Ivanovichi-0077B5?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xOSAwaC0xNGMtMi43NjEgMC01IDIuMjM5LTUgNXYxNGMwIDIuNzYxIDIuMjM5IDUgNSA1aDE0YzIuNzYyIDAgNS0yLjIzOSA1LTV2LTE0YzAtMi43NjEtMi4yMzgtNS01LTV6bS0xMSAxOWgtM3YtMTFoM3YxMXptLTEuNS0xMi4yNjhjLS45NjYgMC0xLjc1LS43OS0xLjc1LTEuNzY0cy43ODQtMS43NjQgMS43NS0xLjc2NCAxLjc1Ljc5IDEuNzUgMS43NjQtLjc4MyAxLjc2NC0xLjc1IDEuNzY0em0xMy41IDEyLjI2OGgtM3YtNS42MTRjMC0zLjM2OC00LTMuMTEzLTQgMHY1LjYxNGgtM3YtMTFoM3YxLjc2NWMxLjM5Ni0yLjU4NiA3LTIuNzc3IDcgMi40NzZ2Ni43NTl6Ii8+PC9zdmc+" /> <!--LINK FEIO PORQUE O SHIELDS N TAVA INDO O DO LINKEDIN :P-->
 </a>
+  <a href="mailto:samuelvoinoivanovichi@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-samuelvoinoivanovichi-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -81,3 +92,7 @@ I also create content and share knowledge on **software development, SaaS, and t
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Samuelivanovichi/Samuelivanovichi/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
 </picture>
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=venom&height=120&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
