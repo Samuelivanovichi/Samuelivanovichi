@@ -24,7 +24,7 @@ I also create content and share knowledge on **software development, SaaS, and t
   <a href="https://github.com/Samuelivanovichi" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-SAMUELIVANOVICHI-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://instagram.com/Samuelivanovichi" target="_blank">
+  <a href="https://instagram.com/samuel_ivanovichi" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-@SAMUELIVANOVICHI-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <br>
